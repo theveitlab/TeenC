@@ -67,4 +67,4 @@ valueFromPins = teenC.ReadPin([2,11,16]);
 %OR
 valueFromPins = teenC.ReadAll(); %Reads the voltage from all the pins
 ``` 
-You can check out [Reaction Time Test](Experiments/) for an example of setting up a MATLAB script that displays a stimuli and recording the subject's response.
+You can check out [Reaction Time Test](Experiments/2.Reaction Timing) for an example of setting up a MATLAB script that displays a stimuli and recording the subject's response.

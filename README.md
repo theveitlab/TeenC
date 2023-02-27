@@ -7,7 +7,7 @@ TeenC is a library written in C and interfaced with MATLAB using mexFunction for
 Please follow the instructions at [Teensy's](https://www.pjrc.com/teensy/tutorial.html) official page to install [Arduino IDE](https://www.arduino.cc/en/software) and [Teensyduino](https://www.pjrc.com/teensy/td_download.html). 
 
 ### Getting Started
-1. Add ```TeenC/v1/arduino/Teensy``` to your Arduino IDE library. This is usually located under ```Documents/Arduino/libraries```. Please refer [here](https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE) for more information on this.
+1. Add ```TeenC/v1/arduino/Teensy``` [folder](TeenC/v1/arduino/) to your Arduino IDE library. This is usually located under ```Documents/Arduino/libraries```. Please refer [here](https://support.arduino.cc/hc/en-us/articles/5145457742236-Add-libraries-to-Arduino-IDE) for more information on this.
 2. Upload the sketch ```/TeenC/v1/ino/TeenC.ino``` to your Teensy.
 3. In MATLAB, add the following folders to your path.
 ```MATLAB
